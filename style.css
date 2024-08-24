@@ -1,0 +1,37 @@
+html{
+    background-color: black;
+}
+.whole{
+    border: 2px dotted yellow;
+    padding: 10px;
+}
+#poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+    text-align: center;
+    color: yellow;
+}
+
+.image{
+    width: 100%;
+    border: 5px solid white;
+}
+#statement{
+    color:beige;
+    font-size: 27px;
+    text-align: justify;
+    margin-left: 14%;
+}
+p{
+    color:bisque;
+    text-align: right;
+    margin-right: 2%;
+}
+
